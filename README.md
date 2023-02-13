@@ -3,7 +3,7 @@ Repository for educational purpose only.
 
 ## Unit Info
 - <b>Name:</b> Computação Gráfica
-- <b>Year:</b> 1nd Semester of 2nd Year
+- <b>Year:</b> 2nd Semester of 2nd Year
 - <b>My Grade:</b> 17
 
 ## CG projects
