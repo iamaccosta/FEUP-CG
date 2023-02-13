@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3490ad2-5119-45d2-86e2-b063de0df70e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/screenshots/proj-t04g07-2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/project/screenshots/proj-t04g07-2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/screenshots/proj-t04g07-6.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/project/screenshots/proj-t04g07-6.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/screenshots/proj-t04g07-7(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/project/screenshots/proj-t04g07-7(2).png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1okaIDYsDq0h7dwlLxaQtzUsyxq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\isabe\OneDrive\Ambiente de Trabalho\FEUP\FEUP_2_ano\2_semestre\CGRA\cgra-t04-g07\project" />
+      <recent name="C:\Users\isabe\OneDrive\Ambiente de Trabalho\FEUP\FEUP_2_ano\2_semestre\CGRA\cgra-t04-g07\tp2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3490ad2-5119-45d2-86e2-b063de0df70e" name="Default Changelist" comment="" />
+      <created>1613832962251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613832962251</updated>
+      <workItem from="1613832963264" duration="8048000" />
+      <workItem from="1613858023661" duration="938000" />
+      <workItem from="1613925807536" duration="2131000" />
+      <workItem from="1614101553114" duration="1001000" />
+      <workItem from="1614356034363" duration="30000" />
+      <workItem from="1614453638352" duration="2473000" />
+      <workItem from="1614526147892" duration="3121000" />
+      <workItem from="1614636634503" duration="5221000" />
+      <workItem from="1614685148028" duration="4406000" />
+      <workItem from="1614698312308" duration="897000" />
+      <workItem from="1614705663816" duration="5208000" />
+      <workItem from="1614727723558" duration="9000" />
+      <workItem from="1614782091809" duration="6712000" />
+      <workItem from="1614806598876" duration="3092000" />
+      <workItem from="1614876456319" duration="4184000" />
+      <workItem from="1615066369601" duration="2256000" />
+      <workItem from="1615230245349" duration="6013000" />
+      <workItem from="1615281033420" duration="2848000" />
+      <workItem from="1615304576950" duration="5760000" />
+      <workItem from="1615327799209" duration="95000" />
+      <workItem from="1615500377292" duration="5360000" />
+      <workItem from="1615548790872" duration="682000" />
+      <workItem from="1615560648441" duration="4634000" />
+      <workItem from="1615572860362" duration="2560000" />
+      <workItem from="1615843209211" duration="6290000" />
+      <workItem from="1615907143427" duration="1823000" />
+      <workItem from="1615913313117" duration="3585000" />
+      <workItem from="1615935590194" duration="1412000" />
+      <workItem from="1616013244411" duration="7943000" />
+      <workItem from="1616170103257" duration="427000" />
+      <workItem from="1616446781740" duration="1162000" />
+      <workItem from="1616500770592" duration="7841000" />
+      <workItem from="1616774725357" duration="21000" />
+      <workItem from="1617048931697" duration="2198000" />
+      <workItem from="1617116975708" duration="5377000" />
+      <workItem from="1617225756632" duration="18000" />
+      <workItem from="1617226551585" duration="22000" />
+      <workItem from="1617227739745" duration="1233000" />
+      <workItem from="1617794524101" duration="1065000" />
+      <workItem from="1618219995353" duration="2670000" />
+      <workItem from="1618258154421" duration="5314000" />
+      <workItem from="1618327810948" duration="321000" />
+      <workItem from="1618432196724" duration="1062000" />
+      <workItem from="1618582961585" duration="4668000" />
+      <workItem from="1618603244194" duration="1782000" />
+      <workItem from="1618605701615" duration="1907000" />
+      <workItem from="1618846313062" duration="7697000" />
+      <workItem from="1618931463359" duration="5959000" />
+      <workItem from="1619190500716" duration="31000" />
+      <workItem from="1619518772578" duration="6329000" />
+      <workItem from="1619537731907" duration="176000" />
+      <workItem from="1619540772692" duration="883000" />
+      <workItem from="1619864908767" duration="4518000" />
+      <workItem from="1619871470223" duration="2900000" />
+      <workItem from="1619951111511" duration="1907000" />
+      <workItem from="1620141078225" duration="6815000" />
+      <workItem from="1620159171601" duration="2843000" />
+      <workItem from="1620218642220" duration="3136000" />
+      <workItem from="1620400188734" duration="25000" />
+      <workItem from="1620579227953" duration="3475000" />
+      <workItem from="1620583026521" duration="623000" />
+      <workItem from="1620658311578" duration="604000" />
+      <workItem from="1620746842380" duration="7114000" />
+      <workItem from="1621242083136" duration="8490000" />
+      <workItem from="1621257302050" duration="9000" />
+      <workItem from="1621350577151" duration="5768000" />
+      <workItem from="1621517766562" duration="90000" />
+      <workItem from="1621518161913" duration="292000" />
+      <workItem from="1621518612878" duration="10000" />
+      <workItem from="1621519484487" duration="611000" />
+      <workItem from="1621522188616" duration="1082000" />
+      <workItem from="1621614173397" duration="8000" />
+      <workItem from="1621690947023" duration="136000" />
+      <workItem from="1621804973593" duration="14000" />
+      <workItem from="1622123771315" duration="3253000" />
+      <workItem from="1622282949928" duration="9306000" />
+      <workItem from="1622321706443" duration="1730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.vert" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#New_File_Extensions" timestamp="1617049008537">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#New_File_Extensions/0.0.1280.680@0.0.1280.680" timestamp="1617049008537" />
+    <state x="387" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616516110715">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="387" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1616516110715" />
+    <state x="154" y="101" key="FileChooserDialogImpl" timestamp="1621804985284">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="154" y="101" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1621804985284" />
+    <state x="234" y="0" width="1060" height="667" key="dock-window-1" timestamp="1620219638447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="0" width="1060" height="667" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1620219638447" />
+    <state x="-7" y="0" width="653" height="687" key="dock-window-2" timestamp="1620159996154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-7" y="0" width="653" height="687" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1620159996154" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1622284702727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1622284702727" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1622290218460">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1622290218460" />
+  </component>
+</project>
