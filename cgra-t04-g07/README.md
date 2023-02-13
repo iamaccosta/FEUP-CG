@@ -1,6 +1,6 @@
 # CGRA 2020/2021
 
-## Group T0xG0y
+## Group T04G07
 | Name             | Number    | E-Mail             |
 | ---------------- | --------- | ------------------ |
 | Andre Costa      | 201905916 |up201905916@fe.up.pt|
